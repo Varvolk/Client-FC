@@ -1,0 +1,18 @@
+﻿  FCKlient.cpp
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\connectwithuser.h(19): warning C4312: приведение типов: преобразование из "int" в "LPWSTR" большего размера
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\connectwithuser.h(24): warning C4312: приведение типов: преобразование из "int" в "LPWSTR" большего размера
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\connectwithuser.h(41): warning C4312: приведение типов: преобразование из "int" в "LPWSTR" большего размера
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\connectwithuser.h(97): warning C4312: приведение типов: преобразование из "int" в "LPWSTR" большего размера
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\connectwithuser.h(103): warning C4312: приведение типов: преобразование из "int" в "LPWSTR" большего размера
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\connectwithuser.h(113): warning C4312: приведение типов: преобразование из "int" в "LPWSTR" большего размера
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\connectiontoserver.h(60): warning C4101: dwNetThreadId3: неиспользованная локальная переменная
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\connectiontoserver.h(59): warning C4101: hNetThread3: неиспользованная локальная переменная
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\fcklient.cpp(116): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\fcklient.cpp(124): warning C4101: name: неиспользованная локальная переменная
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\fcklient.cpp(123): warning C4101: save2: неиспользованная локальная переменная
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\fcklient.cpp(122): warning C4101: save: неиспользованная локальная переменная
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\fcklient.cpp(144): warning C4101: dwNetThreadId3: неиспользованная локальная переменная
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\fcklient.cpp(143): warning C4101: hNetThread3: неиспользованная локальная переменная
+c:\users\varvolk\documents\visual studio 2015\projects\fcklient\fcklient\fcklient.cpp(397): warning C4101: hwnd: неиспользованная локальная переменная
+  FCKlient.vcxproj -> C:\Users\varvolk\documents\visual studio 2015\Projects\FCKlient\x64\Debug\FCKlient.exe
+  FCKlient.vcxproj -> C:\Users\varvolk\documents\visual studio 2015\Projects\FCKlient\x64\Debug\FCKlient.pdb (Full PDB)
